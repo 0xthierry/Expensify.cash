@@ -4,6 +4,7 @@ const CONST = {
     BETAS: {
         ALL: 'all',
         REPORT_ACTION_CONTEXT_MENU: 'reportActionContextMenu',
+        CHRONOS_IN_CASH: 'chronosInCash',
     },
     BUTTON_STATES: {
         DEFAULT: 'default',
